@@ -13,6 +13,6 @@ Note that while I referred to `__Secure-1PSID` value as an API key for convenien
 Cookie value subject to frequent changes. Verify the value again if an error occurs. Most errors occur when an invalid cookie value is entered.
 
 <br>
-After getting the **API KEY** replace it with 'YOUR_BARD_API'
+After getting the <b> API KEY </b> replace it with 'YOUR_BARD_API'
 
 The bot is now free to use.
