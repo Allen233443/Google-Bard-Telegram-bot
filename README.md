@@ -4,7 +4,8 @@ A simple implementation of Google bard in Telegram
 Just require your telegram bot token and Google bard API key
 
 Go to @Botfather on telegram to Get your bot token, after getting just replace it with "YOUR_BOT_TOKEN".
-To get Your Bard API then:
+
+To get Your Bard API:
 1. Visit https://bard.google.com/
 2. F12 for console
 3. Session: Application → Cookies → Copy the value of  `__Secure-1PSID` cookie.
