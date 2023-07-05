@@ -16,3 +16,11 @@ Cookie value subject to frequent changes. Verify the value again if an error occ
 After getting the <b> API KEY </b> replace it with 'YOUR_BARD_API'
 
 The bot is now free to use.
+
+Libraries Used are 
+<li>
+  pip install bardapi
+</li>
+<li>  
+  pip install python-telegram-bot==12.8
+</li>
